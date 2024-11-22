@@ -24,6 +24,7 @@ A **simple and responsive weather application** that provides real-time weather 
 ## 🔗 Project Link(Vercel Link)
 [View Project Here](https://weather-app-theta-khaki.vercel.app/)
 
+---
 
 ## 📦 Installation
 
