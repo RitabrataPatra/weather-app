@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A **simple and responsive weather application** that provides real-time weather updates for any location. Built with [React.js/Next.js/Vanilla JavaScript] and powered by [Weather API name, e.g., OpenWeatherMap].
+A **simple and responsive weather application** that provides real-time weather updates for any location. Built with [React.js,Vanilla JavaScript] and powered by [Weather API name, e.g., OpenWeatherMap].
 
 ---
 
@@ -15,10 +15,9 @@ A **simple and responsive weather application** that provides real-time weather 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js/Next.js (mention the one you used)
-- **API**: [Weather API name]
-- **Styling**: CSS/Bootstrap/TailwindCSS (mention the one you used)
-- **Other Libraries**: Axios, etc. (if applicable)
+- **Frontend**: React.js
+- **API**: [OpenWeatherApi](https://openweathermap.org/api)
+- **Styling**: CSS/TailwindCSS
 
 ---
 
